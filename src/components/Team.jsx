@@ -47,6 +47,7 @@ export const Team = (props) => {
 
               <div className="caption">
                 <h4>Ahmad Razouki </h4>
+                <p>Développeur Logiciel</p>
               </div>
             </div>
           </div>
