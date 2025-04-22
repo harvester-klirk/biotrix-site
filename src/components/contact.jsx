@@ -125,8 +125,12 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
+                </span>
                 {props.data ? props.data.email : "loading"}
+                <span>
+                  <i className="fa fa-envelope-o"></i> Email
+                </span>
+                {"contact@bio-trix.com"}
               </p>
             </div>
           </div>
