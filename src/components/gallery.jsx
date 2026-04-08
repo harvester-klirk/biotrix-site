@@ -7,6 +7,7 @@ export const Gallery = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Galerie</h2>
+          {/* dummy commit for github */}
           {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
